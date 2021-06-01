@@ -1,11 +1,11 @@
- <body>
- <input id="nameField" type="text" class="form-control " placeholder="Nume Prenume">
- <button class="btn btn-success custom" type="button" id="saveBtn" onclick="setNameData()">Save</button>
+<body>
+<input id="nameField" type="text" class="form-control " placeholder="NUME/ PRENUME">
+<button class="btn btn-success custom" type="button" id="saveBtn" onclick="setNameData()">Save</button>
 <br>	
- <input id="browserField" type="text" class="form-control " placeholder="Browser">
- <button class="btn btn-success custom" type="button" id="saveBtn2" onclick="setBrowser()">Save</button>
-<br><br>
- Nume prenume: <b><span id="nameCookie"></span></b><br>
+<input id="browserField" type="text" class="form-control " placeholder="Browser">
+<button class="btn btn-success custom" type="button" id="saveBtn2" onclick="setBrowser()">Save</button>
+<br>
+NUME/PRENUME: <b><span id="nameCookie"></span></b><br>
 Browser: <b><span id="browserCookie"></span></b><br>
 OS: <b><span id="detectOS"></span></b><br>
 <script>
