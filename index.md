@@ -34,10 +34,11 @@ function setNameData(){
 Nume si Prenume: <b><span id="nameCookie"></span></b><br>
 Browser: <b><span id="browserCookie"></span></b><br>
 OS: <b><span id="detectOS"></span></b><br>
-	
+
+<hr>
 <div style="text-align:center; font-family:'Arial Black';"> Notă de informare privind prelucrarea datelor cu caracter personal </div>
 <br>
-<a style="text-align: justify;">
+
 Universitatea Tehnică din Cluj-Napoca este un operator de date cu caracter personal care are
 responsabilitatea, conform Regulamentului (UE) 2016/679 privind protecția persoanelor fizice în
 ceea ce privește prelucrarea datelor cu caracter personal și libera circulație a acestor date și a
@@ -80,7 +81,6 @@ doar în scopul îndeplinirii obligațiilor legale și în baza consimțământu
 participanților;</li>
 <li> consimțământul oferit de participant va fi utilizat întocmai pentru scopul determinat.</li>
 </ul>
-	</a>
 <hr>
 <br><br>
 <a target="blank" href="https://didatec-my.sharepoint.com/:w:/r/personal/birsan_da_daniela_utcluj_didatec_ro/Documents/GDPR/BirsanDaniela_NotaImformare.docx?d=w1e77f07dc5d6447589635821f9908136&csf=1&web=1&e=vFQKnk">
