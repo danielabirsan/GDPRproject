@@ -37,7 +37,7 @@ OS: <b><span id="detectOS"></span></b><br>
 	
 <button id="titluInfo" class="btn btn-outline-secondary custom">Notă de informare privind prelucrarea datelor cu caracter personal de către UTCN</button>
 
-<div id="gdpr""><br><br><br>
+<br><br><br>
 	<a style="text-align: justify;">
 Universitatea Tehnică din Cluj-Napoca este un operator de date cu caracter personal care are
 responsabilitatea, conform Regulamentului (UE) 2016/679 privind protecția persoanelor fizice în
@@ -84,10 +84,8 @@ participanților;</li>
 </a>
 <hr>
 <br><br>
-<a target="blank" href="https://didatec-my.sharepoint.com/:w:/g/personal/iftodi_ve_cezara_utcluj_didatec_ro/EdzX0BdSpyxNpuETz5JmxOEBIMOxr8L6gVyzFxn2UqRKAw?email=Iftodi.Ve.Cezara%40utcluj.didatec.ro&e=79NUtm">
+<a target="blank" href="https://didatec-my.sharepoint.com/:w:/r/personal/birsan_da_daniela_utcluj_didatec_ro/Documents/GDPR/BirsanDaniela_NotaImformare.docx?d=w1e77f07dc5d6447589635821f9908136&csf=1&web=1&e=vFQKnk">
 	<button class="btn btn-warning">Analiza DPIA</button>
 </a>
-</div>
-</div>
 </body>
 
