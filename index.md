@@ -35,7 +35,7 @@ Nume si Prenume: <b><span id="nameCookie"></span></b><br>
 Browser: <b><span id="browserCookie"></span></b><br>
 OS: <b><span id="detectOS"></span></b><br>
 	
-<button id="titluInfo" class="btn btn-outline-secondary custom">Notă de informare privind prelucrarea datelor cu caracter personal de către UTCN</button>
+<b>Notă de informare privind prelucrarea datelor cu caracter personal<b>
 
 <br><br><br>
 	<a style="text-align: justify;">
