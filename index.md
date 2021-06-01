@@ -1,13 +1,3 @@
-<body>
-<input id="nameField" type="text" class="form-control " placeholder="Nume si Prenume">
-<button class="btn btn-success custom" type="button" id="saveBtn" onclick="setNameData()">Save</button>
-<br>	
-<input id="browserField" type="text" class="form-control " placeholder="Browser">
-<button class="btn btn-success custom" type="button" id="saveBtn2" onclick="setBrowser()">Save</button>
-<br><br>
-Nume si Prenume: <b><span id="nameCookie"></span></b><br>
-Browser: <b><span id="browserCookie"></span></b><br>
-OS: <b><span id="detectOS"></span></b><br>
 <script>
 function setNameData(){
 		let element = document.getElementById('nameField');
@@ -33,3 +23,14 @@ function setNameData(){
 	document.cookie = "operating-system="+OSName;
 	document.getElementById('detectOS').innerHTML=OSName;
 </script>
+
+<body>
+<input id="nameField" type="text" class="form-control " placeholder="Nume si Prenume">
+<button class="btn btn-success custom" type="button" id="saveBtn" onclick="setNameData()">Save</button>
+<br>	
+<input id="browserField" type="text" class="form-control " placeholder="Browser">
+<button class="btn btn-success custom" type="button" id="saveBtn2" onclick="setBrowser()">Save</button>
+<br><br>
+Nume si Prenume: <b><span id="nameCookie"></span></b><br>
+Browser: <b><span id="browserCookie"></span></b><br>
+OS: <b><span id="detectOS"></span></b><br>
