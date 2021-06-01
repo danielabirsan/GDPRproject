@@ -1,8 +1,4 @@
 <script> 
-document.cookie = "session= test GDPR";
- document.cookie = "username=Daniela Birsan"; 
- document.cookie = "favorite_task=collect Data";
-
  function alertCookie() 
  { 
  alert(document.cookie);
@@ -22,5 +18,14 @@ document.cookie = "session= test GDPR";
  
  
  <body>
- Nota de informare 
+ Nota de informare
+ <input id="nameField" type="text" class="form-control"
+ placeholder="Nume Prenume">
+ <button class="btn btn-success custom" type="button" id="saveBtn"
+         onclick="setNameData(()">Save</button>
+ 
+ Nume prenume: " 
+ <b>
+  <span id="nameCookie"></span>
+ <br>
 </body>
