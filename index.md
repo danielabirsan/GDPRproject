@@ -1,18 +1,16 @@
 
  
  <body>
- Nota de informare
  <input id="nameField" type="text" class="form-control " placeholder="Nume Prenume">
  <button class="btn btn-success custom" type="button" id="saveBtn" onclick="setNameData()">Save</button>
- <Br></Br>
+<br></br>	
  <input id="browserField" type="text" class="form-control " placeholder="Browser">
- <span id="nameCookie"></span>
  <button class="btn btn-success custom" type="button" id="saveBtn2" onclick="setBrowser()">Save</button>
 <br><br><br>
 Cookies Data<br>
  Nume prenume: <b><span id="nameCookie"></span></b><br>
-	Browser: <b><span id="browserCookie"></span></b><br>
-	OS: <b><span id="detectOS"></span></b><br>
+Browser: <b><span id="browserCookie"></span></b><br>
+OS: <b><span id="detectOS"></span></b><br>
 <script>
 function setNameData(){
 		let element = document.getElementById('nameField');
