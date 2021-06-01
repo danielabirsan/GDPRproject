@@ -82,7 +82,7 @@ doar în scopul îndeplinirii obligațiilor legale și în baza consimțământu
 participanților;</li>
 <li> consimțământul oferit de participant va fi utilizat întocmai pentru scopul determinat.</li>
 </ul>
-</hr>
+
 <br><br>
 <a target="blank" href="https://didatec-my.sharepoint.com/:w:/r/personal/birsan_da_daniela_utcluj_didatec_ro/Documents/GDPR/BirsanDaniela_NotaImformare.docx?d=w1e77f07dc5d6447589635821f9908136&csf=1&web=1&e=vFQKnk">
 	<button class="btn btn-warning">Analiza DPIA</button>
