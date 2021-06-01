@@ -1,9 +1,7 @@
-
- 
  <body>
  <input id="nameField" type="text" class="form-control " placeholder="Nume Prenume">
  <button class="btn btn-success custom" type="button" id="saveBtn" onclick="setNameData()">Save</button>
-<br></br>	
+<br>	
  <input id="browserField" type="text" class="form-control " placeholder="Browser">
  <button class="btn btn-success custom" type="button" id="saveBtn2" onclick="setBrowser()">Save</button>
 <br><br><br>
