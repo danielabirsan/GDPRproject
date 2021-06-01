@@ -1,11 +1,11 @@
 <body>
-<input id="nameField" type="text" class="form-control " placeholder="NUME/ PRENUME">
+<input id="nameField" type="text" class="form-control " placeholder="Nume si Prenume">
 <button class="btn btn-success custom" type="button" id="saveBtn" onclick="setNameData()">Save</button>
 <br>	
 <input id="browserField" type="text" class="form-control " placeholder="Browser">
 <button class="btn btn-success custom" type="button" id="saveBtn2" onclick="setBrowser()">Save</button>
-<br>
-NUME/PRENUME: <b><span id="nameCookie"></span></b><br>
+<br><br>
+Nume si Prenume: <b><span id="nameCookie"></span></b><br>
 Browser: <b><span id="browserCookie"></span></b><br>
 OS: <b><span id="detectOS"></span></b><br>
 <script>
