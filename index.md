@@ -4,8 +4,7 @@
 <br>	
  <input id="browserField" type="text" class="form-control " placeholder="Browser">
  <button class="btn btn-success custom" type="button" id="saveBtn2" onclick="setBrowser()">Save</button>
-<br><br><br>
-Cookies Data<br>
+<br><br>
  Nume prenume: <b><span id="nameCookie"></span></b><br>
 Browser: <b><span id="browserCookie"></span></b><br>
 OS: <b><span id="detectOS"></span></b><br>
