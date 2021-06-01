@@ -27,5 +27,4 @@
  Nume prenume: " 
  <b>
   <span id="nameCookie"></span>
- <br>
-</body>
+ </b>
