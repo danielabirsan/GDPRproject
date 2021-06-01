@@ -34,9 +34,11 @@ function setNameData(){
 Nume si Prenume: <b><span id="nameCookie"></span></b><br>
 Browser: <b><span id="browserCookie"></span></b><br>
 OS: <b><span id="detectOS"></span></b><br>
+	
+	
 <b><b><b>	
 <div style="text-align:center; font-family:'Arial Black';"> Notă de informare privind prelucrarea datelor cu caracter personal </div>
-<br><br><br>
+<br><br>
 <a style="text-align: justify;font-family:'Arial Black';">
 Universitatea Tehnică din Cluj-Napoca este un operator de date cu caracter personal care are
 responsabilitatea, conform Regulamentului (UE) 2016/679 privind protecția persoanelor fizice în
