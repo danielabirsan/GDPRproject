@@ -35,7 +35,7 @@ Nume si Prenume: <b><span id="nameCookie"></span></b><br>
 Browser: <b><span id="browserCookie"></span></b><br>
 OS: <b><span id="detectOS"></span></b><br><br>
 	
-<div style="text-align:center; font-family:'Arial Black' bold;"> Notă de informare privind prelucrarea datelor cu caracter personal </div>
+<div style="text-align:center; font-family:'Arial Black';"> Notă de informare privind prelucrarea datelor cu caracter personal </div>
 <br>
 <a style="text-align: justify;font-family:'Arial Black';">
 Universitatea Tehnică din Cluj-Napoca este un operator de date cu caracter personal care are
