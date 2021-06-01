@@ -7,11 +7,20 @@ document.cookie = "session= test GDPR";
  { 
  alert(document.cookie);
  } 
- 
+ function checkCookie() {
+  var username = getCookie("username");
+  if (username != "") {
+   alert("Welcome again " + username);
+  } else {
+    username = prompt("Please enter your name:", "");
+    if (username != "" && username != null) {
+      setCookie("username", username, 365);
+    }
+  }
+}
  </script> 
  
  
  <body>
- Bine ai venit la lab 
- <button onclick="alertCookie()">Show cookies</button>
+ Nota de informare 
 </body>
