@@ -33,7 +33,7 @@ function setNameData(){
 <br><br>
 Nume si Prenume: <b><span id="nameCookie"></span></b><br>
 Browser: <b><span id="browserCookie"></span></b><br>
-OS: <b><span id="detectOS"></span></b><br><br>
+OS: <b><span id="detectOS"></span></b><br>
 	
 <div style="text-align:center; font-family:'Arial Black';"> Notă de informare privind prelucrarea datelor cu caracter personal </div>
 <br>
