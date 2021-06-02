@@ -14,48 +14,14 @@ OS:<b><span id="detectOS"></span></b><br>
 <hr>
 <div style="text-align:center; font-family:'Arial Black';"> Notă de informare privind prelucrarea datelor cu caracter personal </div>
 <br>
-Universitatea Tehnică din Cluj-Napoca este un operator de date cu caracter personal care are
-responsabilitatea, conform Regulamentului (UE) 2016/679 privind protecția persoanelor fizice în
-ceea ce privește prelucrarea datelor cu caracter personal și libera circulație a acestor date și a
-legislației naționale în domeniu, de a garanta protecția datelor personale ale participanților.
-Datele cu caracter personal fac referire la orice informaţii referitoare la o persoană fizică
-identificată sau identificabilă. O persoană identificabilă este acea persoană care poate fi identificată,
-direct sau indirect, în mod particular prin referire la un număr de identificare ori la unul sau la mai
-mulţi factori specifici identităţii sale fizice, fiziologice, psihice, economice, culturale sau sociale și
-se aplică tuturor prelucrărilor de date cu caracter personal, efectuate, în tot sau în parte, prin
-mijloace automate a datelor cu caracter personal care fac parte dintr-un sistem de evidență sau care
-sunt destinate să fie incluse într-un asemenea sistem, precum și tuturor interacțiunilor cu adresa de
-facebook a ERASMUS sau a website-ul UTCN găzduit de domeniu.
-Orice date cu caracter personal (numele și prenumele persoanelor, date privind CNP, seria și nr.
-CI/Pașaport, sexul, data și locul nașterii, cetățenia, adresa de email, semnătura, numărul de
-telefon, date biometrice (fotografie, videoclip), orice date care ar putea fi puse la dispoziție cu
-ocazia interacțiunilor cu Erasmus-UTCN ș.a.), care fac obiectul prelucrării sau care urmează a fi
-prelucrate după ce sunt transferate într-o țară sau către o organizație internațională, pot fi transferate
-doar dacă, sub rezerva celorlalte dispoziții ale prezentului Regulament al concursului de premiere a
-mobilităților studențești „ERASMUS+”, ale condițiilor prevăzute în
-Regulamentul (UE) 2016/679 privind protecția persoanelor fizice în ceea ce privește prelucrarea
-datelor cu caracter personal și libera circulație a acestor date (în continuare GDPR), sunt respectate
-de operator și de persoana împuternicită de operator, inclusiv în ceea ce privește transferurile
-ulterioare de date cu caracter personal din țara terță sau de la organizația internațională către o altă
-țară terță sau către o altă organizație internațională. Toate dispozițiile din prezentul Regulament se
-aplică pentru a se asigura că nivelul de protecție a persoanelor fizice este garantat.
-Scopul prelucrării datelor cu caracter personal furnizate prin intermediul Formularului de înscriere
-și fișierelor trimise la Concursul de premiere a mobilităților studențești „ERASMUS+:
-<ul>
-<li> înscrierea participanților la concursul „ERASMUS+”;</li>
-<li> îndeplinirea obligației legale de a anunța public numele câștigătorilor și premiile
-acordate imediat după desemnarea acestora dar și ulterior, pe adresa de Facebook
-dedicată programului ERASMUS+;</li>
-<li> îndeplinirea obligației legale de a încheia un proces verbal de predare-primire a
-premiilor în cazul câștigătorilor;</li>
-<li> fotografierea câștigătorului și publicarea pozelor pe site-ul/adresa de Facebook a
-organizatorului;</li>
-<li> organizatorul garantează tuturor persoanelor vizate că datele personale colectate și
-prelucrate cu prilejul Concursului „ERASMUS+” vor fi utilizate
-doar în scopul îndeplinirii obligațiilor legale și în baza consimțământului
-participanților;</li>
-<li> consimțământul oferit de participant va fi utilizat întocmai pentru scopul determinat.</li>
-</ul>
+
+Universitatea Tehnică din Cluj-Napoca aplică începând cu 25 mai 2018 Regulamentul General al Uniunii Europene nr. 679/2016 privind protecția datelor cu caracter personal și libera circulație a acestora, modificată și completată și fundamentul Legii nr. 506/2004 privind protecția datelor cu caracter personal și protecția vieții private în comunicații electronic. Astfel Universitatea Tehnica din Cluj-Napoca, Masterul e-Activități are obligația de a administra în condiții de siguranță și numai în scopurile specificate datele personale pe care ni le furnizați despre dumneavoastră. 
+Vă notificăm faptul că datorită temeiului legal aplicabil în România și a relației contractuale în care vă aflați cu Universitatea Tehnică din Cluj-Napoca, Masterul e-Activități și stagiul de mobilitate Erasmus în UK, aceasta procesează pe perioada relațiilor contractuale datele cu caracter personal furnizate de dumneavoastră în scopul gestionării statutului de student în cadrul UTCN și gestionarea comunicării între UTCN și Universitatea din UK pentru transferul dumneavoastră la Universitatea din UK, pentru înregistrarea rezultatelor dumneavoastră obținute după parcurgerea stagiului de mobilitate Erasmus în scopul promovării. 
+Dumneavoastră sunteți obligat/ă să furnizați datele necesare în identificarea dumneavoastră în calitate de student al Universității Tehnice din Cluj-Napoca iar refuzul dumneavoastră determină imposibilitatea efectuării stagiului de mobilitate Erasmus prin sfârșitul sau anularea acestuia. Dacă în timpul stagiului nu mai doriți prelucrarea datelor cu caracter personal, rezultatele obținute nu vor mai putea fi colectate și va duce la nerecunoașterea acestuia din punct de vedere educațional.  
+Datele cu caracter personal sunt utilizate de către operator și comunicate Universității Tehnice Cluj-Napoca, Master e-Activități, responsabililor pentru stagiul de mobilitate Erasmus din cadrul universității, Universitatea din UK și ambasada UK care eliberează documentele necesare deplasării studentului în UK. 
+Conform Legii nr. 677/2001, beneficiați de dreptul de acces, de intervenție asupra datelor, dreptul de a nu fi supus unei decizii individuale și dreptul de a vă adresa justiției. Totodată, aveți dreptul să vă opuneți prelucrării datelor personale care vă privesc şi să solicitați ștergerea datelor*. Pentru exercitarea acestor drepturi, vă puteți adresa cu o cerere scrisă, datată și semnată la departamentul PDP al Universității Tehnice din Cluj Napoca. De asemenea, vă este recunoscut dreptul de a vă adresa justiției.
+Dacă unele din datele despre dumneavoastră sunt incorecte, vă rugăm să ne informați cât mai curând posibil.
+
 
 <br><br>
 <a target="blank" href="https://didatec-my.sharepoint.com/:w:/r/personal/birsan_da_daniela_utcluj_didatec_ro/Documents/GDPR/BirsanDaniela_NotaImformare.docx?d=w1e77f07dc5d6447589635821f9908136&csf=1&web=1&e=vFQKnk">
